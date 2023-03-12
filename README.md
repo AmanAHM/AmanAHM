@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aman Ahmed
-- 👀 I’m interested in Building things with my very keyboard 
-- 🌱 I’m currently looking for an Software Engineer Role
+- 👀 I’m interested in Building Web Projects and Desktop Projects 
+- 🌱 I’m currently looking for aSoftware Engineer Role
 - 📫 Contact me - aman.ahmed1899@gmail.com
 
 <!---
